@@ -1,4 +1,4 @@
-# Conference Timeline
+# Conference Submission Timeline
 List of relevant conferences to the group.
 
 [ICRA]: https://www.icra2019.org/ "IEEE International Conference on Robotics and Automation"
@@ -24,6 +24,7 @@ List of relevant conferences to the group.
 [VMCAI]: https://popl19.sigplan.org/track/VMCAI-2019 "International Conference on Verification, Model Checking, and Abstract Interpretation"
 [ETAPS]: https://conf.researchr.org/home/etaps-2019 "European Joint Conferences on Theory and Practice of Software"
 [POPL]: http://www.sigplan.org/Conferences/POPL/ "ACM SIGPLAN Symposium on Principles of Programming Languages"
+[EUMAS]: https://eumas2018.w.uib.no/ "European Conference on Multi-Agent Systems"
 
 ## January 2019
 
@@ -51,6 +52,7 @@ List of relevant conferences to the group.
 
 ## September 2018
 - [ICRA] Submission 15th, Notification 31 January 2019 (Montreal, Canada)
+- [EUMAS] Abstract Submission 15th, Submission 20, Notification 30 October 2018 (Bergen, Norway)
 
 ## October 2018
 - [HRI] Submission 1st (Daegu, South Korea)
@@ -61,11 +63,11 @@ List of relevant conferences to the group.
 - [ETAPS] Abstract Submission 7th, Submission 15th, Notification 25 January 2019 (Prague, Czech Republic)
 
 ## December 2018
-- [ICSR] Submission 4th, Notification 4 March 2019 (New York, USA)
 - [JELIA] Abstract Submission 26 November, Submission 3rd, Notification 16 January 2019 (Rende, Italy)
+- [ICSR] Submission 4th, Notification 4 March 2019 (New York, USA)
+- [NFM] Abstract Submission 7th, Submission 14th, Notification 22 February 2019 (Houston, USA)
 
 ## Unannounced
-- [NFM]
 - [RSS] (Freiburg, Germany)
 - [ASE] (San Diego, USA)
 - Astra - Advanced Space Technologies for Robotics and Automation
