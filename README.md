@@ -30,6 +30,7 @@ List of relevant conferences to the group.
 
 
 ## February 2019
+- [IJCAI] Submission 25th, Notification 9 May 2019 (Macao, China)
 
 
 ## March 2019
@@ -59,7 +60,8 @@ List of relevant conferences to the group.
 - [VMCAI] Submission 1st, Notification 12 November 2018 (Lisbon, Portugal)
 
 ## November 2018
-- [ICAPS] Submission, Notification January 2019 (Berkeley, USA)
+- [AAMAS] Abstract Submission 12th, Submission 16th, Notification 23 January 2019 (Montreal, Canada)
+- [ICAPS] Abstract Submission 16th, Submission 21st, Notification 6 February 2019 (Berkeley, USA)
 - [ETAPS] Abstract Submission 7th, Submission 15th, Notification 25 January 2019 (Prague, Czech Republic)
 
 ## December 2018
@@ -71,8 +73,6 @@ List of relevant conferences to the group.
 - [RSS] (Freiburg, Germany)
 - [ASE] (San Diego, USA)
 - Astra - Advanced Space Technologies for Robotics and Automation
-- [IJCAI] (Macao, China)
-- [AAMAS]
 - [SENSYS]
 - [RO-MAN]
 - [KR] 2020
