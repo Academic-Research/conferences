@@ -56,7 +56,7 @@ List of relevant conferences to the group.
 - ~~[EUMAS] Abstract Submission 15th, Submission 20, Notification 30 October 2018 (Bergen, Norway)~~
 
 ## October 2018
-~~- [HRI] Submission 1st (Daegu, South Korea)~~
+- ~~[HRI] Submission 1st (Daegu, South Korea)~~
 - ~~[VMCAI] Submission 1st, Notification 12 November 2018 (Lisbon, Portugal)~~
 
 ## November 2018
