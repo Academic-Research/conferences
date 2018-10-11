@@ -27,11 +27,11 @@ List of relevant conferences to the group.
 [EUMAS]: https://eumas2018.w.uib.no/ "European Conference on Multi-Agent Systems"
 
 ## January 2019
-
+- [LICS] Abstract Submission 4th, Submission 11th, Notification 29 March 2019 (Vancouver, Canada)
 
 ## February 2019
 - [IJCAI] Submission 25th, Notification 9 May 2019 (Macao, China)
-- [LICS] Abstract Submission 4th, Submission 11th, Notification 29 March 2019 (Vancouver, Canada)
+- [CAV] Submission 7th, Notification 17 April 2019 (New York, USA)
 
 
 ## March 2019
@@ -77,7 +77,6 @@ List of relevant conferences to the group.
 - [SENSYS]
 - [RO-MAN]
 - [KR] 2020
-- [CAV]
 - [FROCOS]
 - [PRIMA]
 - [POPL]
