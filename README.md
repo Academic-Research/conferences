@@ -49,15 +49,15 @@ List of relevant conferences to the group.
 
 
 ## August 2018
-- [ICSE] Submission 24th, Notification 12 December 2019 (Montreal, Canada)
+- ~~[ICSE] Submission 24th, Notification 12 December 2019 (Montreal, Canada)~~
 
 ## September 2018
-- [ICRA] Submission 15th, Notification 31 January 2019 (Montreal, Canada)
-- [EUMAS] Abstract Submission 15th, Submission 20, Notification 30 October 2018 (Bergen, Norway)
+- ~~[ICRA] Submission 15th, Notification 31 January 2019 (Montreal, Canada)~~
+- ~~[EUMAS] Abstract Submission 15th, Submission 20, Notification 30 October 2018 (Bergen, Norway)~~
 
 ## October 2018
-- [HRI] Submission 1st (Daegu, South Korea)
-- [VMCAI] Submission 1st, Notification 12 November 2018 (Lisbon, Portugal)
+~~- [HRI] Submission 1st (Daegu, South Korea)~~
+- ~~[VMCAI] Submission 1st, Notification 12 November 2018 (Lisbon, Portugal)~~
 
 ## November 2018
 - [AAMAS] Abstract Submission 12th, Submission 16th, Notification 23 January 2019 (Montreal, Canada)
