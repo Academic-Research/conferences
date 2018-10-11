@@ -31,13 +31,14 @@ List of relevant conferences to the group.
 
 ## February 2019
 - [IJCAI] Submission 25th, Notification 9 May 2019 (Macao, China)
+- [LICS] Abstract Submission 4th, Submission 11th, Notification 29 March 2019 (Vancouver, Canada)
 
 
 ## March 2019
 - [IROS] Submission 1st, Notification 30 June 2019 (Macao, China)
 
 ## April 2019
-- [FM] Abstract Submission 28 March 2019, Submission 11, Notification 11 June 2019 (Porto, Portugal)
+- [FM] Abstract Submission 28 March 2019, Submission 11th, Notification 11 June 2019 (Porto, Portugal)
 
 ## May 2019
 
@@ -76,7 +77,6 @@ List of relevant conferences to the group.
 - [SENSYS]
 - [RO-MAN]
 - [KR] 2020
-- [LICS] (Vancouver, Canada)
 - [CAV]
 - [FROCOS]
 - [PRIMA]
